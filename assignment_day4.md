@@ -35,7 +35,7 @@ const sumOfPossitiveNumbers = arr.reduce((sum, num) => {
   }
 }, 0);
 
-console.log(sumOfPositiveNumbers); 
+console.log(sumOfPossitiveNumbers); 
 
 output:
 
